@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Library/metadata
+/Library/PackageCache
+/Library/ShaderCache
+/Library
+/Temp
